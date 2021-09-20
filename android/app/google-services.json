@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381192590305",
+    "firebase_url": "https://l3as1-8cefe-default-rtdb.firebaseio.com",
+    "project_id": "l3as1-8cefe",
+    "storage_bucket": "l3as1-8cefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381192590305:android:98f21bb702e86321a2f8a0",
+        "android_client_info": {
+          "package_name": "com.example.aura2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381192590305-96sb51gdvqc4cluvmllrlh7ugb70gc71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gjUfZ_pCGTHTaZ9PLWABEGB0Cxa8jYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381192590305-96sb51gdvqc4cluvmllrlh7ugb70gc71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381192590305-gen9eq7heuaeahud3o12o628v5f01r3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
